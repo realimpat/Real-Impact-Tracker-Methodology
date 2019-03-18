@@ -33,7 +33,7 @@ Markdown:
 - Supports basic display formatting (such as headings and tables)
 - Works well with file version control such as Git
 
-Markdown is designed to be accessible to you to read and understand, even if you've never heard of Markdown. If you want to see more, GitHub also hosts a 5-min Markdown introduction https://guides.github.com/features/mastering-markdown/. 
+Markdown is designed to be accessible to you to read and understand, even if you've never heard of Markdown. This Readme is in Markdown. If you want to learn more, GitHub also hosts a 5-min Markdown introduction https://guides.github.com/features/mastering-markdown/. 
 
 ### Contact
 If you are trying to contribute but are getting stuck when using this tool, you can reach us by email at press@realimpacttracker.com, and we will try to help. 
@@ -45,7 +45,7 @@ For those of you who aren't familiar with open source licensing, here is a gist 
 
 __The Gist:__
 
-If you want to redistribute this work as part of your own work, you must include this same license (or a compatible one) and the 'source code' (disclose the methodology). If you modify this work, you must submit your modifications back to the authors (conveniently via this Github repository), so the project can benefit from any potential improvements. Under the LGPL, the copyleft protections refer this work and modifications directly related to it, not other unrelated aspects of a larger project. 
+If you want to redistribute this work as part of your own work, you must include this same license (or a compatible one) and the 'source code' (disclose the methodology). If you modify this work, you must submit your modifications back to the authors (conveniently via this Github repository), so the project can benefit from any potential improvements. Under the LGPL, the copyleft protections refer to this work and modifications directly related to it, not other unrelated aspects of a larger project. 
 
 You can:
 - Download, share, and otherwise distribute
