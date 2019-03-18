@@ -5,6 +5,8 @@ A methodology to assess the Real Impact of funds on social and environmental iss
 ## About
 This is a methodology for holistically assessing the social and environmental impact of investments, originally authored by Real Impact Tracker to assess public equity and debt fund managers. It applies internationally. 
 
+The actual methodology is a file called 'methodology.md' in this repository.
+
 ## Use Cases
 This approach addresses the question: How can investors have the most positive impact? The focus is on actions that investors can take, not simply what companies are in the portfolio. The three main sections are 
   - ESG Strategy
