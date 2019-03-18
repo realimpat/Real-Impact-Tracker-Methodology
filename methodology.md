@@ -1,6 +1,7 @@
 ## 
 
 #   
+Copyright Real Impact Tracker, a Delaware Public Benefit Corporation. See License (GPL V3) for licensing information. 
 
 # General Introduction
 

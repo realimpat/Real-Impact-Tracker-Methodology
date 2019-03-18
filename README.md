@@ -60,4 +60,3 @@ You cannot:
 The goal is transparency and community improvement. 
 
 If you have questions about the license, please contact us.
-
