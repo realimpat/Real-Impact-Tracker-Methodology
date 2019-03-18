@@ -21,11 +21,11 @@
 # General Introduction
 
 This scoring system is meant to assess the positive societal impact of
-public equity retail investment funds. We hope to add value not through
+investment funds, especially public equity funds. We hope to add value not through
 collecting new data, but by analyzing existing data and determining what
 information is truly relevant to assessing a fund’s impact.
 
-This ranking poses the question “is the fund as much impact as it can?”
+This ranking poses the question “is the fund having as much impact as it can?”
 For this reason, funds of any size can receive the maximum score.
 
 Scoring rubrics are different for funds that invest in different
