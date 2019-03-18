@@ -1,7 +1,22 @@
 ## 
 
-#   
-Copyright Real Impact Tracker, a Delaware Public Benefit Corporation. See License (GPL V3) for licensing information. 
+## License Notice   
+    <The Real Impact Methodology, a method for assessing the environmental and social impact of investments>
+
+    Copyright (C) 2019 by Real Impact Tracker, a Delaware Public Benefit Corporation
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU Lesser General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU Lesser General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 # General Introduction
 
