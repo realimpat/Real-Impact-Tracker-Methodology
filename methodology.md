@@ -128,13 +128,13 @@ screen and its direction.
 | **6**            | **6**            | **9**           | Website/marketing materials/pri report - mentions ESG (I)                                                                                                                                          |
 | **12**           | **12**           | **15**          | Negative Screen Only (H)                                                                                                                                                                           |
 | **18**           | **18**           | **24**          | Website/marketing materials/pri report - Describes ESG process (G)                                                                                                                                 |
-| **21**           | **21**           | **33**          | Official filings - Considers ESG factors in principal investment strategies, not specific about what the factors are or how they play into decision making process or outsources ESG decisions (F) |
-| **27**           | **27**           | **39**          | Algorithmic - integrates ESG as primary (ESG part of the principal investment strategies in official filings) (E)                                                                                  |
-| **30**           | **30**           | **42**          | Investing in solutions Passive (renewable energy ETF) (D)                                                                                                                                          |
-| **36**           | **36**           | **51**          | Active - integrates ESG as primary (ESG part of the principal investment strategies in official filings) (C)                                                                                       |
-| **42**           | **42**           | **57**          | Hybrid ESG primary and investing in solutions (B)                                                                                                                                                  |
-| **48**           | **48**           | **63**          | Investing in solutions Active (A)                                                                                                                                                                  |
-| **51**           | **51**           | **66**          | Investing in solutions Active Strategic Investor (at least 5% stake in at least one company) (A+)                                                                                                  |
+| **21**           | **21**           | **30**          | Official filings - Considers ESG factors in principal investment strategies, not specific about what the factors are or how they play into decision making process or outsources ESG decisions (F) |
+| **27**           | **27**           | **36**          | Algorithmic - integrates ESG as primary (ESG part of the principal investment strategies in official filings) (E)                                                                                  |
+| **30**           | **30**           | **40**          | Investing in solutions Passive (renewable energy ETF) (D)                                                                                                                                          |
+| **36**           | **36**           | **47**          | Active - integrates ESG as primary (ESG part of the principal investment strategies in official filings) (C)                                                                                       |
+| **42**           | **42**           | **53**          | Hybrid ESG primary and investing in solutions (B)                                                                                                                                                  |
+| **48**           | **48**           | **59**          | Investing in solutions Active (A)                                                                                                                                                                  |
+| **51**           | **51**           | **62**          | Investing in solutions Active Strategic Investor (at least 5% stake in at least one company) (A+)                                                                                                  |
 
 Performance calculations compare a fund’s risk-adjusted returns to its
 market benchmark. There are a number of ways to calculate risk-adjusted
@@ -171,9 +171,9 @@ credibility and attention to the field.
 | **Points (USA)** | **Points (GLB)** | **Points (EM)** | ESG Research and White Papers                                                                          |
 | ---------------- | ---------------- | --------------- | ------------------------------------------------------------------------------------------------------ |
 | **0**            | **0**            | **0**           | No activity                                                                                            |
-| **6**            | **6**            | **12**          | Published one white paper on ESG issues                                                                |
-| **9**            | **9**            | **15**          | Published one paper on ESG issues in a journal or 2+ white papers                                      |
-| **15**           | **15**           | **21**          | Published 2+ papers on ESG issues in a journal, or one paper in a journal and at least one white paper |
+| **6**            | **6**            | **9**          | Published one white paper on ESG issues                                                                |
+| **9**            | **9**            | **12**          | Published one paper on ESG issues in a journal or 2+ white papers                                      |
+| **15**           | **15**           | **18**          | Published 2+ papers on ESG issues in a journal, or one paper in a journal and at least one white paper |
 | **+3**           | **+3**           | **+3**          | Supported third-party ESG research papers via grants or staff resources                                |
 
 Fund managers that devote a portion of their portfolio to direct
