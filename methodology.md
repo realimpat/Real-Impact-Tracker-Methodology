@@ -1,4 +1,4 @@
-## 
+##
 
 ## License Notice   
     <The Real Impact Methodology, a method for assessing the environmental and social impact of investments>
@@ -100,7 +100,7 @@ engage in developing markets.
 
 ##   
 
-## ESG Investing
+# ESG Investing
 
 By impacting demand for a company, ESG investing can positively impact
 the stock price of high-ESG performing companies, and negatively impact
@@ -213,10 +213,9 @@ previously.
 | **0**            | Below Chief-level                                      |
 | **3**            | Chief-level or board                                   |
 
-## 
+##
 
-##   
-Shareholder Advocacy
+# Shareholder Advocacy
 
 ## Formal
 
@@ -293,7 +292,7 @@ data is not available, we look at % votes at the institutional level.
 | **6**            | **\>75%**                                                                                                                                                                                          |
 | **+6**           | **At least one vote against a director for a publicly stated ESG reason (+3 if has a policy in place to vote against directors for poor ESG performance, but did not take action on that policy)** |
 
-## 
+##
 
 ## Informal
 
@@ -504,7 +503,7 @@ receive extra points.
 | **9**            | 2-3 leadership positions                         |
 | **12**           | 4+ leadership positions                          |
 
-## 
+##
 
 ##   
 
