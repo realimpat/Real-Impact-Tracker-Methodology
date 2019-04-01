@@ -69,13 +69,13 @@ engage in developing markets.
 <td>Shareholder Advocacy (Formal)</td>
 <td><strong>45</strong></td>
 <td><strong>30</strong></td>
-<td><strong>15</strong></td>
+<td><strong>19</strong></td>
 </tr>
 <tr class="odd">
 <td>Shareholder Advocacy (Informal)</td>
 <td><strong>45</strong></td>
 <td><strong>60</strong></td>
-<td><strong>45</strong></td>
+<td><strong>51</strong></td>
 </tr>
 <tr class="even">
 <td>Public Sphere (Policy + Public)</td>
@@ -264,9 +264,9 @@ success
 | **Points (USA)** | **Points (GLB)** | **Points (EM)** | Shareholder Resolution Impact Factors                                                  |
 | ---------------- | ---------------- | --------------- | -------------------------------------------------------------------------------------- |
 | **0**            | **0**            | **NA**          | NA                                                                                     |
-| **+3**           | **+3**           | **NA**          | If lead filer of at least one resolution                                               |
+| **+3**           | **+3**           | **+2**          | If lead filer of at least one resolution                                               |
 | **+3**           | **+3**           | **NA**          | Persistence: Filer of same resolution with same company for multiple years             |
-| **+3**           | **+3**           | **NA**          | At least one resolution successfully withdrawn or received majority support            |
+| **+3**           | **+3**           | **+2**          | At least one resolution successfully withdrawn or received majority support            |
 | **+3**           | **+3**           | **NA**          | At least one lead filed resolution successfully withdrawn or received majority support |
 | **+9**           | **NA**           | **NA**          | If at least one resolution covers a new topic or angle                                 |
 
@@ -320,7 +320,7 @@ a subset of funds, only that subset receives credit.
 | ---------------- | ---------------- | --------------- | ------------------------------------------------------------------------------------------------------ |
 | **0**            | **0**            | **0**           | 0 | 0%                                                                                                 |
 | **3**            | **3**            | **3**           | 1-100 | \<25%                                                                                          |
-| **6**            | **9**            | **6**           | \>100 | \>25%                                                                                          |
+| **6**            | **9**            | **9**           | \>100 | \>25%                                                                                          |
 
 | **Points (USA)** | **Points (GLB)** | **Points (EM)** | Number of companies collaboratively engaged or % of companies in portfolio collaboratively engaged on ESG issues (whichever is higher) |
 | ---------------- | ---------------- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -333,8 +333,8 @@ a subset of funds, only that subset receives credit.
 | **0**            | **0**            | **0**           | 0 | 0%                                                                                                                                                                                                                                                                                                                                                                                                     |
 | **3**            | **3**            | **3**           | 1-20 | \<5%                                                                                                                                                                                                                                                                                                                                                                                                |
 | **6**            | **6**            | **6**           | 21-60 | 5%-15%                                                                                                                                                                                                                                                                                                                                                                                             |
-| **9**            | **12**           | **9**           | 61-120 | 16%-30%                                                                                                                                                                                                                                                                                                                                                                                           |
-| **15**           | **18**           | **15**          | \>120 | \>30%                                                                                                                                                                                                                                                                                                                                                                                              |
+| **9**            | **12**           | **12**           | 61-120 | 16%-30%                                                                                                                                                                                                                                                                                                                                                                                           |
+| **15**           | **18**           | **18**          | \>120 | \>30%                                                                                                                                                                                                                                                                                                                                                                                              |
 
 If only the % of engagements that are comprehensive are reported, the
 following table is used
