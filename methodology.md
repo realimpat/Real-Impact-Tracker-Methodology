@@ -102,6 +102,8 @@ engage in developing markets.
 
 # ESG Investing
 
+## Equities
+
 By impacting demand for a company, ESG investing can positively impact
 the stock price of high-ESG performing companies, and negatively impact
 the stock price of low-ESG performing companies, which affects cost of
@@ -135,6 +137,29 @@ screen and its direction.
 | **42**           | **42**           | **53**          | Hybrid ESG primary and investing in solutions (B)                                                                                                                                                  |
 | **48**           | **48**           | **59**          | Investing in solutions Active (A)                                                                                                                                                                  |
 | **51**           | **51**           | **62**          | Investing in solutions Active Strategic Investor (at least 5% stake in at least one company) (A+)                                                                                                  |
+
+
+## Fixed Income
+
+Fixed-income funds face different strategy dynamics compared to equity funds. 
+
+The nature of fixed income means that measuring and managing risks is more salient than identifying new 'solution' opportunities. That said, the accurate incorporation of these risks into capital markets steers the financial system towards positive outcomes overall. 
+
+
+| **Points** | Investment Strategy                                                                                                                                                                                |
+| ---------------- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **0**            | No ESG integration (NA)                                                                                                                                                                            |
+| **10**            | Website/marketing materials/pri report - mentions ESG (I)                                                                                                                                          |
+| **20**           | Issuer Background Checks include Social + Environmental Risk Assessment |
+| **30**           | Adherence to ESG Risk Assessment Frameworks, such as Equator Principles |
+| **40**           | Allocation towards 'green' labeled instruments |
+| **50**           | Intentional allocation towards thematic ESG / SDG areas |
+| **60**           | In-house sustainability and impact analysis of products |
+| **70**           | Internal method for mapping ESG risks to categories of credit risk
+| **80**           | Tracking and reporting on social impact metrics |
+
+
+## Performance
 
 Performance calculations compare a fund’s risk-adjusted returns to its
 market benchmark. There are a number of ways to calculate risk-adjusted
@@ -217,6 +242,10 @@ previously.
 
 # Shareholder Advocacy
 
+
+
+
+
 ## Formal
 
 Shareholder resolutions have contributed to significant changes in
@@ -292,7 +321,7 @@ data is not available, we look at % votes at the institutional level.
 | **6**            | **\>75%**                                                                                                                                                                                          |
 | **+6**           | **At least one vote against a director for a publicly stated ESG reason (+3 if has a policy in place to vote against directors for poor ESG performance, but did not take action on that policy)** |
 
-##
+
 
 ## Informal
 
@@ -388,7 +417,17 @@ engagements is important to creating impact.
 | **0**            | Does not monitor company actions, with a process to follow up when goals aren’t met |
 | **3**            | Monitors actions and has process for when goals are not met                         |
 
-##   
+
+## Fixed Income
+
+Fixed income strategies lack the same avenues for formal shareholder engagement as equities, but offer additional opportunities abound. 
+
+
+| **Points (All)** | Fixed Income Specific Engagements
+| ---------------- | ----------------------------------------------------------------------------------- |
+| **15**            | Use of convenants to compel improved behavior around environmental or social issues.
+| **15**            | Reverse Inquiry process to encourage sustainable projects from issuers |
+
 
 # Public Sphere
 
