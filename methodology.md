@@ -160,7 +160,7 @@ Score = (9 \* Total Performance Points)
 | ---------------- | ----------------------- |
 | **-27**          | \-3 (min)               |
 | **0**            | 0                       |
-| **12**           | 1.2 (arbitrary example) |
+| **9**            | 1 (arbitrary example) |
 | **27**           | 3 (max)                 |
 
 By conducting ESG research, fund managers accrue knowledge and
@@ -318,34 +318,34 @@ a subset of funds, only that subset receives credit.
 
 | **Points (USA)** | **Points (GLB)** | **Points (EM)** | Number of companies engaged or % of companies in portfolio engaged on ESG issues (whichever is higher) |
 | ---------------- | ---------------- | --------------- | ------------------------------------------------------------------------------------------------------ |
-| **0**            | **0**            | **0**           | 0 | 0%                                                                                                 |
-| **3**            | **3**            | **3**           | 1-100 | \<25%                                                                                          |
-| **6**            | **9**            | **9**           | \>100 | \>25%                                                                                          |
+| **0**            | **0**            | **0**           | 0 / 0%                                                                                                 |
+| **3**            | **3**            | **3**           | 1-100 / \<25%                                                                                          |
+| **6**            | **9**            | **9**           | \>100 / \>25%                                                                                          |
 
 | **Points (USA)** | **Points (GLB)** | **Points (EM)** | Number of companies collaboratively engaged or % of companies in portfolio collaboratively engaged on ESG issues (whichever is higher) |
 | ---------------- | ---------------- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| 0                | **0**            | **0**           | 0 | 0%                                                                                                                                 |
-| **3**            | **3**            | **3**           | 1-100 | \<25%                                                                                                                          |
-| **6**            | **9**            | **6**           | \>100 | \>25%                                                                                                                          |
+| 0                | **0**            | **0**           | 0 / 0%                                                                                                                                 |
+| **3**            | **3**            | **3**           | 1-100 / \<25%                                                                                                                          |
+| **6**            | **9**            | **6**           | \>100 / \>25%                                                                                                                          |
 
 | **Points (USA)** | **Points (GLB)** | **Points (EM)** | Number or % of companies in portfolio engaged **comprehensively** on ESG issues (whichever is higher, includes bilateral or collaborative). We use the PRI’s definition of comprehensive engagements: “engagements that involved multiple, substantive and detailed discussions or interactions”. Any in-person collaborative engagement (as opposed to a sign on letter) counts as comprehensive as well. |
 | ---------------- | ---------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **0**            | **0**            | **0**           | 0 | 0%                                                                                                                                                                                                                                                                                                                                                                                                     |
-| **3**            | **3**            | **3**           | 1-20 | \<5%                                                                                                                                                                                                                                                                                                                                                                                                |
-| **6**            | **6**            | **6**           | 21-60 | 5%-15%                                                                                                                                                                                                                                                                                                                                                                                             |
+| **0**            | **0**            | **0**           | 0 / 0%                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **3**            | **3**            | **3**           | 1-20 / \<5%                                                                                                                                                                                                                                                                                                                                                                                                |
+| **6**            | **6**            | **6**           | 21-60 / 5%-15%                                                                                                                                                                                                                                                                                                                                                                                             |
 | **9**            | **12**           | **12**           | 61-120 | 16%-30%                                                                                                                                                                                                                                                                                                                                                                                           |
-| **15**           | **18**           | **18**          | \>120 | \>30%                                                                                                                                                                                                                                                                                                                                                                                              |
+| **15**           | **18**           | **18**          | \>120 / \>30%                                                                                                                                                                                                                                                                                                                                                                                              |
 
 If only the % of engagements that are comprehensive are reported, the
 following table is used
 
 | **Points (USA)** | **Points (GLB)** | **Points (EM)** | % of engagements that were comprehensive |
 | ---------------- | ---------------- | --------------- | ---------------------------------------- |
-| **0**            | **0**            | **0**           | 0 | 0%                                   |
-| **3**            | **3**            | **3**           | 1-20 | \<5%                              |
-| **6**            | **6**            | **6**           | 21-60 | 5%-15%                           |
-| **9**            | **12**           | **9**           | 61-120 | 16%-30%                         |
-| **15**           | **18**           | **15**          | \>120 | \>30%                            |
+| **0**            | **0**            | **0**           | 0 / 0%                                   |
+| **3**            | **3**            | **3**           | 1-20 / \<5%                              |
+| **6**            | **6**            | **6**           | 21-60 / 5%-15%                           |
+| **9**            | **12**           | **9**           | 61-120 / 16%-30%                         |
+| **15**           | **18**           | **15**          | \>120 / \>30%                            |
 
 Company commitments to change indicate real world impact that a fund
 manager has, but this is not a perfect measure. Commitments secured are
